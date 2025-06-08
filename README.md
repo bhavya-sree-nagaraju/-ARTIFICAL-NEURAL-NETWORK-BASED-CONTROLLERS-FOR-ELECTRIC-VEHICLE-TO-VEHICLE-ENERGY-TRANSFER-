@@ -1,0 +1,2 @@
+# -ARTIFICAL-NEURAL-NETWORK-BASED-CONTROLLERS-FOR-ELECTRIC-VEHICLE-TO-VEHICLE-ENERGY-TRANSFER-
+The objective is to enhance the efficiency and reliability of energy transfer between electric vehicles. The study involves the development and integration of ANN controllers to optimize the power flow and manage the transfer process effectively. This project shown great results in simulation using MATLAB Simulink. 
